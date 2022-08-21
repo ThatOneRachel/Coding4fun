@@ -1,3 +1,4 @@
+//A program that encripts any sentence using the caeser cipher
 #include <stdio.h>
 #include <string.h>
 #define MAX 50
